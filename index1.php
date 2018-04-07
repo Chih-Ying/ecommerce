@@ -9,7 +9,7 @@
 	
 <body>
 
-<h1>Beauty Diaries</h1>
+<h2>Beauty Diaries</h2>
 
 	<!--Main Container starts here-->
 	<div class="main_wrapper">
